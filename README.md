@@ -2,8 +2,8 @@
 
 ## BlackJack 
 
-### Contest start: 28th Jan 2017 - 10:00 am
-### Contest end:  29th Jan 2017 - 9:00 am
+### Contest start: 28th Jan 2017 - 11:00 am
+### Contest end:  29th Jan 2017 - 11:00 am
 
 ## Prize: Top three folks will win an iPad Mini
 
