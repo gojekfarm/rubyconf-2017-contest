@@ -58,7 +58,7 @@ When both Player and Dealer have the same score, the game is a draw.
 
 The solution to the problem should be object oriented. It should be solved in Ruby. 
 
-P.S: We are not looking for the complete solution to the problem, but are looking for one’s approach at solving it.
+#### P.S: We are not looking for the complete solution to the problem, but are looking for one’s approach at solving it.
 
 Some features of the solution carries more weightage which include:
 
