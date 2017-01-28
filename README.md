@@ -57,6 +57,7 @@ When both Player and Dealer have the same score, the game is a draw.
 ### Game Rules
 
 The solution to the problem should be object oriented. It should be solved in Ruby. 
+
 P.S: We are not looking for the complete solution to the problem, but are looking for one’s approach at solving it.
 
 Some features of the solution carries more weightage which include:
@@ -70,5 +71,5 @@ P.S: You can reach out to any Gojek folks for clarification of the above problem
 
 ### Submitting the solution
 
-Complete the solution. Push the code to your github account and tweet us the link to the repository mentioning @GojekTech with Hashtag #RubyConfIndia
+Complete the solution. Push the code to your github account and tweet us the link to the repository mentioning (@GojekTech)[https://twitter.com/GojekTech] with Hashtag #RubyConfIndia
 
