@@ -45,7 +45,7 @@ When the Player completes their turn and the Player is not Busted, the Dealer th
 Face cards (Jacks, Queens and Kings) are worth 10 points. Aces are worth 1 or 11, whichever is preferable. The other cards are worth their number.
 A person's score is the sum of the values of the cards in their hand.
 
-### Ending:
+#### Ending:
 
 The Player is busted. The Dealer wins.
 The Dealer is busted. The Player wins.
