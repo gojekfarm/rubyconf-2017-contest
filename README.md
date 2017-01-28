@@ -5,7 +5,7 @@
 ### Contest start: 28th Jan 2017 - 10:00 am
 ### Contest end:  29th Jan 2017 - 9:00 am
 
-## Prize: Top three winners will get an iPad Mini
+## Prize: Top three folks will win an iPad Mini
 
 ### Problem Statement:
 
@@ -71,5 +71,5 @@ P.S: You can reach out to any Gojek folks for clarification of the above problem
 
 ### Submitting the solution
 
-Complete the solution. Push the code to your github account and tweet us the link to the repository mentioning (@GojekTech)[https://twitter.com/GojekTech] with Hashtag #RubyConfIndia
+Complete the solution. Push the code to your github account and tweet us the link to the repository mentioning [@GojekTech](https://twitter.com/GojekTech) with Hashtag #RubyConfIndia
 
