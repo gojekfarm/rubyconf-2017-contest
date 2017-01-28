@@ -13,7 +13,7 @@ Blackjack is a popular card game played against a Dealer. In this card game the 
 
 #### Deck:
 
-The game is played with 4 or more decks containing 52 distinct cards in each (Face values : A, 2-9, J, Q and K; Suits : D,C,S,H)
+The game is played with 4 or more decks containing 52 distinct cards in each (Face values : A, 2-10, J, Q and K; Suits : D,C,S,H)
 The entire deck is shuffled before the start of the game.
 
 #### Beginning:
